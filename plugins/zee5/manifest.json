@@ -1,0 +1,21 @@
+{
+  "id": "nx.zee5",
+  "version": "1.0.0",
+  "name": "zee5",
+  "description": "It's a zee5 plugin for nxsha",
+  "logo": "",
+  "author": "nxsha-dev",
+  "types": [
+    "movie",
+    "tv"
+  ],
+  "entry": "nxsha.nx",
+  "catalog": [],
+  "resources": [
+    "catalog"
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

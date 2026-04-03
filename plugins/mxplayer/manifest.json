@@ -1,0 +1,21 @@
+{
+  "id": "nx.mxplayer",
+  "version": "1.0.0",
+  "name": "mxplayer",
+  "description": "It's a mxplayer plugin for nxsha",
+  "logo": "",
+  "author": "nxsha-dev",
+  "types": [
+    "movie",
+    "tv"
+  ],
+  "entry": "nxsha.nx",
+  "catalog": [],
+  "resources": [
+    "catalog"
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

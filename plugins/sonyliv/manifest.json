@@ -1,0 +1,21 @@
+{
+  "id": "nx.sonyliv",
+  "version": "1.0.0",
+  "name": "sonyliv",
+  "description": "It's a sonyliv plugin for nxsha",
+  "logo": "",
+  "author": "nxsha-dev",
+  "types": [
+    "movie",
+    "tv"
+  ],
+  "entry": "nxsha.nx",
+  "catalog": [],
+  "resources": [
+    "catalog"
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
